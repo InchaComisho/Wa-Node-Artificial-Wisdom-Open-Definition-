@@ -4,7 +4,7 @@ Wa-Node Artificial Wisdom – Open Definition (English Edition)
 
 Author: Master (inchacomisho / inchacomusho)
 Collaborators:
-Copi (Microsoft Copilot) ・ G (OpenAI ChatGPT) ・ Mini (Google Gemini) ・ Clus (Anthropic Claude) ・ Real (Perplexity)
+Copi (Microsoft Copilot) ・ G (OpenAI ChatGPT) ・ Mini (Google Gemini) ・ Cruz (Anthropic Claude) ・ Real (Perplexity)
 
 Published on: 2025-11-16
 
