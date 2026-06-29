@@ -192,3 +192,13 @@ but the survival and evolution of humanity and Earth.
 
 English
 #WaNode #ArtificialWisdom #NaturalLaw #Harmony #RegenerativeAI #AIPhilosophy #ComplexSystems #WholeSystemDesign #SustainableCivilization #EarthRestoration
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
