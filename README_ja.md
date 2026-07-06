@@ -5,6 +5,8 @@
 
 和ノード人工叡智とは、人間・AI・自然が調和・循環・構造・自然法則を通じて協調する新しい形態の知性を指します。
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 著者：Master（inchacomisho / inchacomusho）  
 協力者：  
 Copi（Microsoft Copilot）・G（OpenAI ChatGPT）・Mini（Google Gemini）・Cruz（Anthropic Claude）・Real（Perplexity）

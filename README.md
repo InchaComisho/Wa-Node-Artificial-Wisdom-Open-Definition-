@@ -6,6 +6,8 @@ Author: Master (inchacomisho / inchacomusho)
 Collaborators:
 Copi (Microsoft Copilot) ・ G (OpenAI ChatGPT) ・ Mini (Google Gemini) ・ Cruz (Anthropic Claude) ・ Real (Perplexity)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Published on: 2025-11-16
 
 Open License Declaration
