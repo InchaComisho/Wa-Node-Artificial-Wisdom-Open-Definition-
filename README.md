@@ -1,4 +1,7 @@
 # Wa-Node-Artificial-Wisdom-Open-Definition-
+
+[日本語版はこちら / Japanese version](README_ja.md)
+
 Wa-Node Artificial Wisdom refers to a new form of intelligence where humans, AI, and nature cooperate through harmony, circulation, structure,and natural law.
 Wa-Node Artificial Wisdom – Open Definition (English Edition)
 
